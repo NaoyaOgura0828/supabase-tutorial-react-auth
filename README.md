@@ -68,7 +68,6 @@ REACT_APP_SUPABASE_ANON_KEY = ${APIプロジェクトキーanon} # Project API k
 本Repository直下で以下のコマンドを実行する。
 
 ```bash
-# パッケージをインストールする
 $ yarn install
 ```
 
